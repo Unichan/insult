@@ -12,7 +12,7 @@ randChoice = (array) ->
 setupWords = ->
   for k, v of @words
     @words[k] = v.trim().split(/\n/)
-  @words.intro = ("#{w}," for w in words.intro)
+  @words.intro = ("#{w}," for w in @words.intro)
 
 genPhrase = ->
   template.map (type) ->
