@@ -26,5 +26,5 @@ setNewPhrase = ->
 
 $ ->
   setupWords()
-  setNewPhrase(words)
+  setNewPhrase()
   $('#new').click -> setNewPhrase()
