@@ -17,14 +17,14 @@
     }
     return this.words.intro = (function() {
       var _i, _len, _ref1, _results;
-      _ref1 = words.intro;
+      _ref1 = this.words.intro;
       _results = [];
       for (_i = 0, _len = _ref1.length; _i < _len; _i++) {
         w = _ref1[_i];
         _results.push("" + w + ",");
       }
       return _results;
-    })();
+    }).call(this);
   };
 
   genPhrase = function() {
