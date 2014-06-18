@@ -39,7 +39,7 @@
 
   $(function() {
     setupWords();
-    setNewPhrase(words);
+    setNewPhrase();
     return $('#new').click(function() {
       return setNewPhrase();
     });

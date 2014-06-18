@@ -12,6 +12,7 @@ please die
 die in a fire
 go back to cc
 go back to tc
+go back to ilb
 go eat some sleeping pills
 go fuck yourself
 kill yourself
@@ -31,6 +32,7 @@ sad
 beta
 omega
 pathetic
+childish
 projecting
 autistic
 retarded
@@ -49,6 +51,14 @@ insufferable
 obnoxious
 deaf
 disgusting
+gargantuan
+supreme
+utter
+massive
+ultra
+mega
+ultra mega
+mega ultra
 """
 
 @words.compound_adjective =
@@ -62,9 +72,11 @@ dick-sucking
 dragon dildo-owning
 pointy-kneed
 sharp-elbowed
+fedora-wearing
 cum-guzzling
 ass-kissing
 butt-fucking
+potato-nosed
 """
 
 @words.noun =
@@ -115,6 +127,7 @@ mlpfag
 weeaboo
 gnome
 daughter bather
+shitlord
 toad
 goy
 male OC
