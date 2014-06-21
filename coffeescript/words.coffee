@@ -57,8 +57,6 @@ obnoxious
 deaf
 disgusting
 gargantuan
-supreme
-utter
 massive
 ultra
 mega
