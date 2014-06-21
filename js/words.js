@@ -6,7 +6,7 @@
 
   this.words.you = "you\nyew";
 
-  this.words.adjective = "sad\nbeta\nomega\npathetic\nchildish\nprojecting\nautistic\nretarded\ndeluded\nforever alone\npsychotic\nobsessive\ntryhard\ndisgusting\ncreepy\n\"beautiful\"\nbutthurt\nanorexic\ncringeworthy\nvapid\ncatty\njealous\ninsufferable\nobnoxious\ndeaf\ndisgusting\ngargantuan\nsupreme\nutter\nmassive\nultra\nmega\nultra mega\nmega ultra";
+  this.words.adjective = "sad\nbeta\nomega\npathetic\nchildish\nprojecting\nautistic\nretarded\ndeluded\nforever alone\npsychotic\nobsessive\ntryhard\ndisgusting\ncreepy\n\"beautiful\"\nbutthurt\nanorexic\ncringeworthy\nvapid\ncatty\njealous\ninsufferable\nobnoxious\ndeaf\ndisgusting\ngargantuan\nmassive\nultra\nmega\nultra mega\nmega ultra";
 
   this.words.compound_adjective = "fat-ass\ncandy-ass\nfaggot-ass\ncactus-fucking\ntwo-faced\ndick-sucking\ndragon dildo-owning\nextra-water-retaining\npointy-kneed\nsharp-elbowed\nfake-titted\nfedora-wearing\ncum-guzzling\nass-kissing\nbutt-fucking\npotato-nosed";
 
