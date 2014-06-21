@@ -18,6 +18,8 @@ go fuck yourself
 kill yourself
 hurr durr
 nice b8
+nice reverse psychopathology
+how fucking dare you
 """
 
 @words.you =
@@ -43,9 +45,12 @@ obsessive
 tryhard
 disgusting
 creepy
-beautiful
+"beautiful"
 butthurt
+anorexic
 cringeworthy
+vapid
+catty
 jealous
 insufferable
 obnoxious
@@ -70,8 +75,10 @@ cactus-fucking
 two-faced
 dick-sucking
 dragon dildo-owning
+extra-water-retaining
 pointy-kneed
 sharp-elbowed
+fake-titted
 fedora-wearing
 cum-guzzling
 ass-kissing
