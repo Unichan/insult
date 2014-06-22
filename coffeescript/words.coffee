@@ -51,12 +51,15 @@ psychotic
 obsessive
 tryhard
 disgusting
+fat
+curvy
 creepy
 "beautiful"
 butthurt
 anorexic
 cringeworthy
 vapid
+jewish
 catty
 jealous
 insufferable
@@ -66,8 +69,6 @@ disgusting
 gargantuan
 massive
 yeasty
-ultra
-mega
 ultra mega
 mega ultra
 """
@@ -90,6 +91,8 @@ cum-guzzling
 ass-kissing
 butt-fucking
 potato-nosed
+roast-beef-vagina
+gilbert-gottfried-looking
 """
 
 @words.noun =
@@ -114,11 +117,14 @@ faggot
 fag
 namefag
 tripfag
+directoryfag
 feminazi
 attention whore
 happy merchant
 kike
 hooknose
+hamplanet
+hamwhale
 shill
 councilfag
 feminist
@@ -127,20 +133,26 @@ fucking psycho
 troll
 caleb
 cecil 2.0
+tard
+turd
+turdface
 retard
 faggot son
 samefag
+dorito head
 shrimp
 forumfag
 autist
 white knight
 dicknose
 brony
+strumpet
 horsefucker
 goblin
 mlpfag
 weeaboo
 gnome
+kitten stomper
 daughter bather
 alpha beta
 shitlord

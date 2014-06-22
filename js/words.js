@@ -6,10 +6,10 @@
 
   this.words.you = "you\nyew";
 
-  this.words.adjective = "sad\nbeta\nomega\npathetic\nchildish\nprojecting\nautistic\nretarded\ndeluded\nforever alone\npsychotic\nobsessive\ntryhard\ndisgusting\ncreepy\n\"beautiful\"\nbutthurt\nanorexic\ncringeworthy\nvapid\ncatty\njealous\ninsufferable\nobnoxious\ndeaf\ndisgusting\ngargantuan\nmassive\nyeasty\nultra\nmega\nultra mega\nmega ultra";
+  this.words.adjective = "sad\nbeta\nomega\npathetic\nchildish\nprojecting\nautistic\nretarded\ndeluded\nforever alone\npsychotic\nobsessive\ntryhard\ndisgusting\nfat\ncurvy\ncreepy\n\"beautiful\"\nbutthurt\nanorexic\ncringeworthy\nvapid\njewish\ncatty\njealous\ninsufferable\nobnoxious\ndeaf\ndisgusting\ngargantuan\nmassive\nyeasty\nultra mega\nmega ultra";
 
-  this.words.compound_adjective = "fat-ass\ncandy-ass\nfaggot-ass\ncactus-fucking\ntwo-faced\ndick-sucking\ndragon dildo-owning\nextra-water-retaining\npointy-kneed\nsharp-elbowed\nfake-titted\nfedora-wearing\ncum-guzzling\nass-kissing\nbutt-fucking\npotato-nosed";
+  this.words.compound_adjective = "fat-ass\ncandy-ass\nfaggot-ass\ncactus-fucking\ntwo-faced\ndick-sucking\ndragon dildo-owning\nextra-water-retaining\npointy-kneed\nsharp-elbowed\nfake-titted\nfedora-wearing\ncum-guzzling\nass-kissing\nbutt-fucking\npotato-nosed\nroast-beef-vagina\ngilbert-gottfried-looking";
 
-  this.words.noun = "virgin\nneckbeard\npedo\njunefag\njunebot\nsperglord\nfucking retard\naspie fuck\nburlap sack\npeterfag\ncuckold\ncatiebot\nstalker\ncunt\npussy\njew\nfaggot\nfag\nnamefag\ntripfag\nfeminazi\nattention whore\nhappy merchant\nkike\nhooknose\nshill\ncouncilfag\nfeminist\nholocaust believer\nfucking psycho\ntroll\ncaleb\ncecil 2.0\nretard\nfaggot son\nsamefag\nshrimp\nforumfag\nautist\nwhite knight\ndicknose\nbrony\nhorsefucker\ngoblin\nmlpfag\nweeaboo\ngnome\ndaughter bather\nalpha beta\nshitlord\ntoad\ngoy\nmale OC";
+  this.words.noun = "virgin\nneckbeard\npedo\njunefag\njunebot\nsperglord\nfucking retard\naspie fuck\nburlap sack\npeterfag\ncuckold\ncatiebot\nstalker\ncunt\npussy\njew\nfaggot\nfag\nnamefag\ntripfag\ndirectoryfag\nfeminazi\nattention whore\nhappy merchant\nkike\nhooknose\nhamplanet\nhamwhale\nshill\ncouncilfag\nfeminist\nholocaust believer\nfucking psycho\ntroll\ncaleb\ncecil 2.0\ntard\nturd\nturdface\nretard\nfaggot son\nsamefag\ndorito head\nshrimp\nforumfag\nautist\nwhite knight\ndicknose\nbrony\nstrumpet\nhorsefucker\ngoblin\nmlpfag\nweeaboo\ngnome\nkitten stomper\ndaughter bather\nalpha beta\nshitlord\ntoad\ngoy\nmale OC";
 
 }).call(this);
