@@ -37,10 +37,16 @@ html, body {
 	font-size: 110%;
 	position: fixed;
 	bottom: 0;
-	margin-left: 95%;
+	margin-left: 85%;
 	margin-bottom: 10px;
 }
 
 #source a {
 	text-decoration: underline;
+}
+
+#updated {
+	font-size: 90%;
+	font-style: italic;
+	color: #56585E;
 }

@@ -28,3 +28,4 @@ $ ->
   setupWords()
   setNewPhrase()
   $('#new').click -> setNewPhrase()
+  $('#time').text(lastUpdated)

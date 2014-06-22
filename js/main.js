@@ -40,9 +40,10 @@
   $(function() {
     setupWords();
     setNewPhrase();
-    return $('#new').click(function() {
+    $('#new').click(function() {
       return setNewPhrase();
     });
+    return $('#time').text(lastUpdated);
   });
 
 }).call(this);
