@@ -74,6 +74,8 @@ massive
 yeasty
 ultra mega
 mega ultra
+pitiful
+gross
 """
 
 @words.compound_adjective =
@@ -96,6 +98,7 @@ butt-fucking
 potato-nosed
 roast-beef-vagina
 gilbert-gottfried-looking
+acne-covered
 """
 
 @words.noun =
@@ -167,4 +170,6 @@ goy
 male OC
 nigger frog
 internet tough guy
+dingleberry
+beta orbiter
 """
