@@ -9,6 +9,8 @@ sup jwagzz
 sup jelly
 sup nig
 sup nick
+you must be nick
+you must be jwagzz
 gtfo
 please die
 die in a fire
@@ -29,6 +31,9 @@ nice reverse psychopathology
 how fucking dare you
 1/10 cloxxies
 i hope kenny sits on you
+what a pathetic attempt
+jesus fucking christ
+how do you dress yourself
 """
 
 @words.you =
@@ -76,6 +81,7 @@ ultra mega
 mega ultra
 pitiful
 gross
+narcissistic
 """
 
 @words.compound_adjective =
@@ -172,4 +178,5 @@ nigger frog
 internet tough guy
 dingleberry
 beta orbiter
+sociopath
 """
