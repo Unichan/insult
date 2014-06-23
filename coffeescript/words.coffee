@@ -7,6 +7,8 @@ sup cecil
 sup loli
 sup jwagzz
 sup jelly
+sup nig
+sup nick
 gtfo
 please die
 die in a fire
@@ -58,6 +60,7 @@ creepy
 butthurt
 anorexic
 cringeworthy
+embarrassing
 vapid
 jewish
 catty
@@ -137,12 +140,15 @@ tard
 turd
 turdface
 retard
+idiot
+downy
 faggot son
 samefag
 dorito head
 shrimp
 forumfag
 autist
+embarrassment
 white knight
 dicknose
 brony
@@ -159,4 +165,6 @@ shitlord
 toad
 goy
 male OC
+nigger frog
+internet tough guy
 """
