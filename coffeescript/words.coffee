@@ -34,6 +34,7 @@ i hope kenny sits on you
 what a pathetic attempt
 jesus fucking christ
 how do you dress yourself
+real fucking funny
 """
 
 @words.you =
@@ -63,6 +64,7 @@ curvy
 creepy
 "beautiful"
 butthurt
+butt bitter
 anorexic
 cringeworthy
 embarrassing
@@ -150,6 +152,7 @@ turd
 turdface
 retard
 idiot
+moron
 downy
 faggot son
 samefag
