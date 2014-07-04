@@ -14,14 +14,20 @@ html, body {
 }
 
 #container {
-	font-size: 250%;
-	height: 80px;
-	line-height: 80px;
-	margin-left: 5%;
+	display: inline-block;
+	font-size: 240%;
+	line-height: 50px;
 	margin-top: 60px;
 	width: 90%;
 	color: #F9ECD1 !important;
 	background: #111 !important;
+}
+
+#sentence {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
 #another {
@@ -37,7 +43,7 @@ html, body {
 	font-size: 110%;
 	position: fixed;
 	bottom: 0;
-	margin-left: 85%;
+	margin-left: 83%;
 	margin-bottom: 10px;
 }
 

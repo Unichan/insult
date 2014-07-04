@@ -1,5 +1,31 @@
 @words = {}
 
+@words.preset =
+"""
+fucking demon baby antichrist fucking 60 year old 6 year old bowl cut looking ass bitch
+you look like a dying old woman and a underage girl at the same damn time got a nigga fucked up
+"""
+
+@words.custom =
+"""
+fucking {compound_adjective} {adjective} {noun} {noun} ass bitch
+{you} look like a {adjective} {noun} and a {noun} at the same {expletive} time got a nigga fucked up
+{phrase} ass {noun}
+"""
+
+@words.expletive =
+"""
+#####
+fucking
+motherfucking
+damn
+goddamn
+goddamned
+motherfucking damn
+goddamn motherfucking
+goddamned motherfucking
+"""
+
 @words.intro =
 """
 sup caleb
@@ -35,16 +61,21 @@ what a pathetic attempt
 jesus fucking christ
 how do you dress yourself
 real fucking funny
+you're projecting hard
 """
 
 @words.you =
 """
+you
+you
+you
 you
 yew
 """
 
 @words.adjective =
 """
+####
 sad
 beta
 omega
@@ -76,8 +107,7 @@ insufferable
 obnoxious
 deaf
 disgusting
-gargantuan
-massive
+huge
 yeasty
 ultra mega
 mega ultra
@@ -88,6 +118,7 @@ narcissistic
 
 @words.compound_adjective =
 """
+###
 fat-ass
 candy-ass
 faggot-ass
@@ -117,7 +148,6 @@ pedo
 junefag
 junebot
 sperglord
-fucking retard
 aspie fuck
 burlap sack
 peterfag
@@ -125,10 +155,12 @@ cuckold
 catiebot
 stalker
 cunt
+bitch
 pussy
 jew
 faggot
 fag
+son of a bitch
 namefag
 tripfag
 directoryfag
@@ -152,6 +184,7 @@ turd
 turdface
 retard
 idiot
+retard idiot
 moron
 downy
 faggot son
@@ -170,6 +203,7 @@ goblin
 mlpfag
 weeaboo
 gnome
+garden gnome
 kitten stomper
 daughter bather
 alpha beta
@@ -182,4 +216,6 @@ internet tough guy
 dingleberry
 beta orbiter
 sociopath
+demon baby antichrist
+psychotic autistic punk
 """
