@@ -4,7 +4,7 @@
 
   this.words.preset = "fucking demon baby antichrist fucking 60 year old 6 year old bowl cut looking ass bitch\nyou look like a dying old woman and a underage girl at the same damn time got a nigga fucked up";
 
-  this.words.custom = "fucking {compound_adjective} {adjective} {noun} {noun} ass bitch\n{you} look like a {adjective} {noun} and a {noun} at the same {expletive} time got a nigga fucked up\n{phrase} ass {noun}";
+  this.words.custom = "fucking {compound_adjective} {adjective} {noun} {noun} ass bitch\n{you} look like a {adjective} {noun} and a {noun} at the same {expletive} time you {expletive} {noun}\n{phrase} ass {noun}";
 
   this.words.expletive = "##########\nfucking\nmotherfucking\ndamn\ngoddamn\ngoddamned\ndamn fucking\ngoddamn fucking\ngoddamned fucking\ndamn motherfucking\ngoddamn motherfucking\ngoddamned motherfucking";
 

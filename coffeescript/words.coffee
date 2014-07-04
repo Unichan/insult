@@ -9,7 +9,7 @@ you look like a dying old woman and a underage girl at the same damn time got a 
 @words.custom =
 """
 fucking {compound_adjective} {adjective} {noun} {noun} ass bitch
-{you} look like a {adjective} {noun} and a {noun} at the same {expletive} time got a nigga fucked up
+{you} look like a {adjective} {noun} and a {noun} at the same {expletive} time you {expletive} {noun}
 {phrase} ass {noun}
 """
 
