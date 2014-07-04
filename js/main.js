@@ -6,7 +6,7 @@
 
   PRESET_CHANCE = 0.05;
 
-  CUSTOM_CHANCE = 0.20;
+  CUSTOM_CHANCE = 0.12;
 
   Array.prototype.compact = function() {
     var elem, _i, _len, _results;
@@ -29,7 +29,7 @@
     _ref = this.words;
     for (k in _ref) {
       v = _ref[k];
-      this.words[k] = v.trim().replace(/#/g, "\n").split(/\n/);
+      this.words[k] = v.trim().replace(/#/g, '\n').split(/\n/);
     }
     return this.words.intro = (function() {
       var _i, _len, _ref1, _results;
@@ -45,7 +45,7 @@
 
   getCustom = function() {
     return randChoice(this.words.custom).replace(/\{(.+?)\}/g, function(s, m1) {
-      if (m1 === "phrase") {
+      if (m1 === 'phrase') {
         return getCombo();
       } else {
         return randChoice(this.words[m1]);

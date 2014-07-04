@@ -37,6 +37,7 @@ sup nig
 sup nick
 you must be nick
 you must be jwagzz
+hi troll
 gtfo
 please die
 die in a fire
@@ -48,8 +49,10 @@ go back to ilb
 go lick loli's tampons
 go eat some sleeping pills
 i can't believe you're this retarded
+you can't fucking come to the meetup
 go fuck yourself
 kill yourself
+are you fucking serious
 eat a dick
 hurr durr
 nice b8
@@ -103,6 +106,7 @@ vapid
 jewish
 catty
 jealous
+bitter
 insufferable
 obnoxious
 deaf
@@ -110,7 +114,6 @@ disgusting
 huge
 yeasty
 ultra mega
-mega ultra
 pitiful
 gross
 narcissistic
@@ -176,6 +179,7 @@ councilfag
 feminist
 holocaust believer
 fucking psycho
+psychopath
 troll
 caleb
 cecil 2.0
@@ -201,6 +205,7 @@ strumpet
 horsefucker
 goblin
 mlpfag
+shitfucker
 weeaboo
 gnome
 garden gnome
