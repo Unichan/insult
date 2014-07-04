@@ -31,6 +31,7 @@ goddamned motherfucking
 
 @words.intro =
 """
+####
 sup caleb
 sup cecil
 sup loli
@@ -124,7 +125,7 @@ narcissistic
 
 @words.compound_adjective =
 """
-###
+####
 fat-ass
 candy-ass
 faggot-ass

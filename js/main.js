@@ -4,7 +4,7 @@
 
   template = ['intro', 'you', 'adjective', 'compound_adjective', 'expletive', 'noun'];
 
-  PRESET_CHANCE = 0.05;
+  PRESET_CHANCE = 0.04;
 
   CUSTOM_CHANCE = 0.12;
 
