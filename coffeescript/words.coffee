@@ -21,7 +21,10 @@ motherfucking
 damn
 goddamn
 goddamned
-motherfucking damn
+damn fucking
+goddamn fucking
+goddamned fucking
+damn motherfucking
 goddamn motherfucking
 goddamned motherfucking
 """
@@ -204,16 +207,20 @@ brony
 strumpet
 horsefucker
 goblin
+faggit
+fagget
 mlpfag
 shitfucker
 weeaboo
 gnome
 garden gnome
+dumbfuck
 kitten stomper
 daughter bather
 alpha beta
 shitlord
 toad
+shitass
 goy
 male OC
 nigger frog
