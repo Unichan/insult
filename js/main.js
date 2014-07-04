@@ -37,9 +37,7 @@
       _results = [];
       for (_i = 0, _len = _ref1.length; _i < _len; _i++) {
         w = _ref1[_i];
-        if (!!w) {
-          _results.push("" + w + ",");
-        }
+        _results.push(!!w ? "" + w + "," : w);
       }
       return _results;
     }).call(this);

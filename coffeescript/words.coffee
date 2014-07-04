@@ -31,7 +31,7 @@ goddamned motherfucking
 
 @words.intro =
 """
-####
+######
 sup caleb
 sup cecil
 sup loli

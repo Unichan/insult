@@ -8,7 +8,7 @@
 
   this.words.expletive = "##########\nfucking\nmotherfucking\ndamn\ngoddamn\ngoddamned\ndamn fucking\ngoddamn fucking\ngoddamned fucking\ndamn motherfucking\ngoddamn motherfucking\ngoddamned motherfucking";
 
-  this.words.intro = "####\nsup caleb\nsup cecil\nsup loli\nsup jwagzz\nsup jelly\nsup nig\nsup nick\nyou must be nick\nyou must be jwagzz\nhi troll\ngtfo\nplease die\ndie in a fire\nshut the fuck up\nnice try\ngo back to cc\ngo back to tc\ngo back to ilb\ngo lick loli's tampons\ngo eat some sleeping pills\ni can't believe you're this retarded\nyou can't fucking come to the meetup\ngo fuck yourself\nkill yourself\nare you fucking serious\neat a dick\nhurr durr\nnice b8\nnice reverse psychopathology\nhow fucking dare you\n1/10 cloxxies\ni hope kenny sits on you\nwhat a pathetic attempt\njesus fucking christ\nhow do you dress yourself\nreal fucking funny\nyou're projecting hard";
+  this.words.intro = "######\nsup caleb\nsup cecil\nsup loli\nsup jwagzz\nsup jelly\nsup nig\nsup nick\nyou must be nick\nyou must be jwagzz\nhi troll\ngtfo\nplease die\ndie in a fire\nshut the fuck up\nnice try\ngo back to cc\ngo back to tc\ngo back to ilb\ngo lick loli's tampons\ngo eat some sleeping pills\ni can't believe you're this retarded\nyou can't fucking come to the meetup\ngo fuck yourself\nkill yourself\nare you fucking serious\neat a dick\nhurr durr\nnice b8\nnice reverse psychopathology\nhow fucking dare you\n1/10 cloxxies\ni hope kenny sits on you\nwhat a pathetic attempt\njesus fucking christ\nhow do you dress yourself\nreal fucking funny\nyou're projecting hard";
 
   this.words.you = "you\nyou\nyou\nyou\nyew";
 

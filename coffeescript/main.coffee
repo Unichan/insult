@@ -19,7 +19,7 @@ randChoice = (array) ->
 setupWords = ->
   for k, v of @words
     @words[k] = v.trim().replace(/#/g, '\n').split(/\n/)
-  @words.intro = ("#{w}," for w in @words.intro when !!w)
+  @words.intro = ((if !!w then "#{w}," else w) for w in @words.intro)
 
 getCustom = ->
   randChoice(@words.custom).replace /\{(.+?)\}/g, (s, m1) ->
