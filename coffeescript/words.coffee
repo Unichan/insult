@@ -15,7 +15,7 @@ fucking {compound_adjective} {adjective} {noun} {noun} ass bitch
 
 @words.expletive =
 """
-#####
+##########
 fucking
 motherfucking
 damn
