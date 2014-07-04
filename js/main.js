@@ -31,16 +31,18 @@
       v = _ref[k];
       this.words[k] = v.trim().replace(/#/g, '\n').split(/\n/);
     }
-    return this.words.intro = (function() {
+    return this.words.intro = ((function() {
       var _i, _len, _ref1, _results;
-      _ref1 = this.words.intro;
-      _results = [];
-      for (_i = 0, _len = _ref1.length; _i < _len; _i++) {
-        w = _ref1[_i];
-        _results.push("" + w + ",");
+      if (!!w) {
+        _ref1 = this.words.intro;
+        _results = [];
+        for (_i = 0, _len = _ref1.length; _i < _len; _i++) {
+          w = _ref1[_i];
+          _results.push("" + w + ",");
+        }
+        return _results;
       }
-      return _results;
-    }).call(this);
+    }).call(this));
   };
 
   getCustom = function() {
