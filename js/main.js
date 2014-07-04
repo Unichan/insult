@@ -33,7 +33,7 @@
     }
     return this.words.intro = ((function() {
       var _i, _len, _ref1, _results;
-      if (!!w) {
+      if (w) {
         _ref1 = this.words.intro;
         _results = [];
         for (_i = 0, _len = _ref1.length; _i < _len; _i++) {
