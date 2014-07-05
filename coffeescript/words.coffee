@@ -8,10 +8,10 @@ you look like a dying old woman and a underage girl at the same damn time got a 
 
 @words.custom =
 """
->2014 >being this much of a {adjective} {noun}[2]
+>2014 >being this much of a {adjective} {noun}[3]
 fucking {compound_adjective} {adjective} {noun} {noun} ass bitch
 {you} look like a {adjective} {noun} and a {noun} at the same {expletive} time you {expletive} {noun}
-{phrase} ass {noun}[2]
+{phrase} ass {noun}[5]
 """
 
 @words.expletive =

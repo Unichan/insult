@@ -8,7 +8,7 @@ template = [
 ]
 
 PRESET_CHANCE = 0.04
-CUSTOM_CHANCE = 0.12
+CUSTOM_CHANCE = 0.15
 
 Array::compact = ->
   (elem for elem in this when elem?)
@@ -27,8 +27,6 @@ setupWords = ->
 getCustom = ->
   randChoice(@words.custom).replace /\{(.+?)\}/g, (s, m1) ->
     if m1 == 'phrase' then getCombo() else randChoice(@words[m1])
-
-
 
 getCombo = ->
   template.map (type) ->

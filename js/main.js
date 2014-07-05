@@ -6,7 +6,7 @@
 
   PRESET_CHANCE = 0.04;
 
-  CUSTOM_CHANCE = 0.12;
+  CUSTOM_CHANCE = 0.15;
 
   Array.prototype.compact = function() {
     var elem, _i, _len, _results;
