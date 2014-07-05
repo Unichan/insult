@@ -97,7 +97,7 @@
     $('#new').click(function() {
       return setNewPhrase();
     });
-    $('#previous').click(function() {
+    $('#previous-link').click(function() {
       return showPrevious();
     });
     return $('#time').text(lastUpdated);

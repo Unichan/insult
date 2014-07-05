@@ -63,5 +63,5 @@ $ ->
   setupWords()
   setNewPhrase()
   $('#new').click -> setNewPhrase()
-  $('#previous').click -> showPrevious()
+  $('#previous-link').click -> showPrevious()
   $('#time').text(lastUpdated)

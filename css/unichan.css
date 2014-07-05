@@ -44,6 +44,10 @@ html, body {
 	margin-top: 10px;
 }
 
+#previous-link {
+	cursor: pointer;
+}
+
 #source {
 	color: #0088CC;
 	font-size: 110%;
