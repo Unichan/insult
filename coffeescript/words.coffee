@@ -39,6 +39,7 @@ sup cecil
 sup loli
 sup jwagzz
 sup jelly
+jelly detected
 sup nig
 sup nick
 you must be nick
@@ -101,6 +102,7 @@ psychotic
 obsessive
 tryhard
 disgusting
+awkward
 fat
 curvy
 creepy
@@ -113,7 +115,10 @@ embarrassing
 vapid
 jewish
 catty
+crazy
+batshit crazy
 jealous
+deranged
 bitter
 insufferable
 obnoxious
