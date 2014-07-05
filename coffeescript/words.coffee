@@ -134,26 +134,27 @@ narcissistic
 
 @words.compound_adjective =
 """
-#######
-fat-ass
+###################
+fat-ass[3]
 candy-ass
-faggot-ass
+faggot-ass[3]
 cactus-fucking
-two-faced
-dick-sucking
+two-faced[4]
+dick-sucking[3]
+cock-sucking[3]
 dragon dildo-owning
 extra-water-retaining
 pointy-kneed
 sharp-elbowed
 fake-titted
-fedora-wearing
-cum-guzzling
-ass-kissing
+fedora-wearing[2]
+cum-guzzling[2]
+ass-kissing[2]
 butt-fucking
 potato-nosed
 roast-beef-vagina
 gilbert-gottfried-looking
-acne-covered
+acne-covered[2]
 """
 
 @words.noun =
