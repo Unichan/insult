@@ -11,9 +11,9 @@ you look like a dying old woman and a underage girl at the same damn time got a 
 >2014 >being this much of a {adjective} {noun}[3]
 >2014 >being such a {adjective} {expletive} {noun}[3]
 >2014 >being a {adjective} {noun}[2]
-fucking {compound_adjective} {adjective} {noun} {noun} ass bitch
+fucking {compound_adjective} {adjective} {noun} {noun} ass bitch[4]
 {you} look like a {adjective} {noun} and a {noun} at the same {expletive} time you {expletive} {noun}
-{phrase} ass {noun}[5]
+{phrase} ass {noun}[8]
 """
 
 @words.expletive =
