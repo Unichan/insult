@@ -7,6 +7,8 @@ template = [
   'noun'
 ]
 
+@history = []
+
 PRESET_CHANCE = 0.04
 CUSTOM_CHANCE = 0.15
 
@@ -43,12 +45,23 @@ genPhrase = ->
   else
     getCombo()
 
+fixArticles = (s) ->
+  s.replace(/\ba\b ([aeiou])/g, 'an $1')
+
 setNewPhrase = ->
-  $('#sentence').text(genPhrase().toUpperCase())
+  @index = 0
+  @previous = @phrase
+  @phrase = fixArticles(genPhrase()).toUpperCase()
+  $('#sentence').text(@phrase)
+  @history.unshift(@phrase)
+
+showPrevious = ->
+  $('#sentence').text(@history[++@index])
 
 
 $ ->
   setupWords()
   setNewPhrase()
   $('#new').click -> setNewPhrase()
+  $('#previous').click -> showPrevious()
   $('#time').text(lastUpdated)

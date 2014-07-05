@@ -38,6 +38,12 @@ html, body {
 	margin-top: 60px;
 }
 
+#previous {
+	text-decoration: underline;
+	font-size: 90%;
+	margin-top: 10px;
+}
+
 #source {
 	color: #0088CC;
 	font-size: 110%;
