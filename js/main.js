@@ -4,7 +4,7 @@
 
   template = ['intro', 'you', 'adjective', 'compound_adjective', 'expletive', 'noun'];
 
-  this.history = [];
+  this.phraseHistory = [];
 
   PRESET_CHANCE = 0.03;
 
@@ -84,11 +84,11 @@
     this.previous = this.phrase;
     this.phrase = fixArticles(genPhrase()).toUpperCase();
     $('#sentence').text(this.phrase);
-    return this.history.unshift(this.phrase);
+    return this.phraseHistory.unshift(this.phrase);
   };
 
   showPrevious = function() {
-    return $('#sentence').text(this.history[++this.index]);
+    return $('#sentence').text(this.phraseHistory[++this.index]);
   };
 
   $(function() {

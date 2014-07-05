@@ -7,7 +7,7 @@ template = [
   'noun'
 ]
 
-@history = []
+@phraseHistory = []
 
 PRESET_CHANCE = 0.03
 CUSTOM_CHANCE = 0.15
@@ -53,10 +53,10 @@ setNewPhrase = ->
   @previous = @phrase
   @phrase = fixArticles(genPhrase()).toUpperCase()
   $('#sentence').text(@phrase)
-  @history.unshift(@phrase)
+  @phraseHistory.unshift(@phrase)
 
 showPrevious = ->
-  $('#sentence').text(@history[++@index])
+  $('#sentence').text(@phraseHistory[++@index])
 
 
 $ ->

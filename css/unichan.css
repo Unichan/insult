@@ -43,12 +43,17 @@ html, body {
 }
 
 #previous {
-	text-decoration: underline;
 	font-size: 90%;
 	margin-top: 10px;
 }
 
 #previous-link {
+  	-webkit-user-select: none;
+  	-moz-user-select: none;
+  	-ms-user-select: none;
+  	user-select: none;
+	text-decoration: underline;
+	text-decoration-color: blue;
 	cursor: pointer;
 }
 
