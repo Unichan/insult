@@ -9,7 +9,7 @@ template = [
 
 @history = []
 
-PRESET_CHANCE = 0.04
+PRESET_CHANCE = 0.03
 CUSTOM_CHANCE = 0.15
 
 Array::compact = ->
