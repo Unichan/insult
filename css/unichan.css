@@ -34,6 +34,10 @@ html, body {
 	margin-top: 30px;
 }
 
+#new {
+	outline: none;
+}
+
 #main {
 	margin-top: 60px;
 }

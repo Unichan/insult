@@ -18,12 +18,12 @@ fucking {compound_adjective} {adjective} {noun} {noun} ass bitch
 
 @words.expletive =
 """
-##########
-fucking[5]
-motherfucking[3]
+################
+fucking[12]
+motherfucking[6]
 damn
-goddamn[3]
-goddamned[3]
+goddamn[2]
+goddamned[2]
 goddamn fucking
 goddamned fucking
 damn motherfucking
@@ -71,6 +71,7 @@ jesus fucking christ
 how do you dress yourself
 real fucking funny
 you're projecting hard
+stop fucking projecting
 quit grasping at straws
 nice strawman
 nice samefagging
@@ -128,7 +129,7 @@ narcissistic
 
 @words.compound_adjective =
 """
-######
+#######
 fat-ass
 candy-ass
 faggot-ass
