@@ -10,7 +10,7 @@
 
   this.words.intro = "######\nsup caleb\nsup cecil\nsup loli\nsup jwagzz\nsup jelly\nsup nig\nsup nick\nyou must be nick\nyou must be jwagzz\nhi troll\ngtfo\nplease die\ndie in a fire\nshut the fuck up\nnice try\ngo back to cc\ngo back to tc\ngo back to ilb\ngo lick loli's tampons\ngo eat some sleeping pills\ni can't believe you're this retarded\nyou can't fucking come to the meetup\ngo fuck yourself\nkill yourself\nare you fucking serious\neat a dick\nhurr durr\nnice b8\nnice reverse psychopathology\nhow fucking dare you\n1/10 cloxxies\ni hope kenny sits on you\nwhat a pathetic attempt\njesus fucking christ\nhow do you dress yourself\nreal fucking funny\nyou're projecting hard\nstop fucking projecting\nquit grasping at straws\nnice strawman\nnice samefagging\nnice damage control";
 
-  this.words.you = "you[4]\nyew";
+  this.words.you = "you[6]\nyew";
 
   this.words.adjective = "####\nsad\nbeta\nomega\npathetic\nchildish\nprojecting\nautistic\nretarded\ndeluded\nforever alone\npsychotic\nobsessive\ntryhard\ndisgusting\nfat\ncurvy\ncreepy\n\"beautiful\"\nbutthurt\nbutt bitter\nanorexic\ncringeworthy\nembarrassing\nvapid\njewish\ncatty\njealous\nbitter\ninsufferable\nobnoxious\ndeaf\ndisgusting\nhuge\nyeasty\nultra mega\npitiful\ngross\nnarcissistic";
 

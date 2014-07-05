@@ -80,7 +80,7 @@ nice damage control
 
 @words.you =
 """
-you[4]
+you[6]
 yew
 """
 
