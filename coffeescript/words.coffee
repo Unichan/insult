@@ -8,20 +8,20 @@ you look like a dying old woman and a underage girl at the same damn time got a 
 
 @words.custom =
 """
+>2014 >being this much of a {adjective} {noun}[2]
 fucking {compound_adjective} {adjective} {noun} {noun} ass bitch
 {you} look like a {adjective} {noun} and a {noun} at the same {expletive} time you {expletive} {noun}
-{phrase} ass {noun}
+{phrase} ass {noun}[2]
 """
 
 @words.expletive =
 """
 ##########
-fucking
-motherfucking
+fucking[5]
+motherfucking[3]
 damn
-goddamn
-goddamned
-damn fucking
+goddamn[3]
+goddamned[3]
 goddamn fucking
 goddamned fucking
 damn motherfucking
@@ -69,14 +69,15 @@ jesus fucking christ
 how do you dress yourself
 real fucking funny
 you're projecting hard
+quit grasping at straws
+nice strawman
+nice samefagging
+nice damage control
 """
 
 @words.you =
 """
-you
-you
-you
-you
+you[4]
 yew
 """
 
@@ -125,7 +126,7 @@ narcissistic
 
 @words.compound_adjective =
 """
-####
+######
 fat-ass
 candy-ass
 faggot-ass
@@ -186,6 +187,7 @@ fucking psycho
 psychopath
 troll
 caleb
+caleb 2.0
 cecil 2.0
 tard
 turd
@@ -221,6 +223,7 @@ daughter bather
 alpha beta
 shitlord
 toad
+cocksucker
 shitass
 goy
 male OC
@@ -230,5 +233,5 @@ dingleberry
 beta orbiter
 sociopath
 demon baby antichrist
-psychotic autistic punk
+psychotic autistic punk[2]
 """

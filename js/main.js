@@ -29,7 +29,9 @@
     _ref = this.words;
     for (k in _ref) {
       v = _ref[k];
-      this.words[k] = v.trim().replace(/#/g, '\n').split(/\n/);
+      this.words[k] = v.replace(/#/g, '\n').replace(/(.+?)\[(\d+)\](\n|$)/g, function(s, m1, m2) {
+        return Array(parseInt(m2) + 1).join(m1 + '\n');
+      }).trim().split(/\n/);
     }
     return this.words.intro = (function() {
       var _i, _len, _ref1, _results;

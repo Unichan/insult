@@ -18,12 +18,17 @@ randChoice = (array) ->
 
 setupWords = ->
   for k, v of @words
-    @words[k] = v.trim().replace(/#/g, '\n').split(/\n/)
+    @words[k] = v.replace(/#/g, '\n')
+    .replace /(.+?)\[(\d+)\](\n|$)/g, (s, m1, m2) ->
+      Array(parseInt(m2) + 1).join(m1 + '\n')
+    .trim().split(/\n/)
   @words.intro = ((if !!w then "#{w}," else w) for w in @words.intro)
 
 getCustom = ->
   randChoice(@words.custom).replace /\{(.+?)\}/g, (s, m1) ->
     if m1 == 'phrase' then getCombo() else randChoice(@words[m1])
+
+
 
 getCombo = ->
   template.map (type) ->
