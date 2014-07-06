@@ -9,7 +9,7 @@ template = [
 
 @phraseHistory = []
 
-PRESET_CHANCE = 0.03
+PRESET_CHANCE = 0.02
 CUSTOM_CHANCE = 0.30
 
 Array::compact = ->

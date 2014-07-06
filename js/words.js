@@ -4,7 +4,7 @@
 
   this.words.preset = "fucking demon baby antichrist fucking 60 year old 6 year old bowl cut looking ass bitch\nyou look like a dying old woman and a underage girl at the same damn time got a nigga fucked up\ncan't flim flam the unicham";
 
-  this.words.custom = ">2014 >being this much of a {adjective} {noun}[3]\n>2014 >being such a {adjective} {expletive} {noun}[3]\n>2014 >being a {adjective} {noun}[2]\nfucking {compound_adjective} {adjective} {noun} {noun} ass bitch[2]\n{you} look like a {adjective} {noun} and a {noun} at the same {expletive} time you {expletive} {noun}[3]\n{phrase} ass {noun}[10]\n{expletive} {adjective} {adjective} {noun}[5]\n{expletive} {adjective} {adjective} {adjective} ass {noun}[5]\nyou're a {adjective} {expletive} {noun}[10]\nwhat a {expletive} {adjective} {noun} you are[6]";
+  this.words.custom = ">2014 >being this much of a {adjective} {noun}[3]\n>2014 >being such a {adjective} {expletive} {noun}[3]\n>2014 >being a {adjective} {noun} {noun}[2]\nfucking {compound_adjective} {adjective} {noun} {noun} ass bitch[2]\n{you} look like a {adjective} {noun} and a {noun} at the same {expletive} time you {expletive} {noun}[3]\n{phrase} ass {noun}[10]\n{expletive} {adjective} {adjective} {noun}[5]\n{expletive} {adjective} {adjective} {adjective} ass {noun}[5]\nyou're a {adjective} {expletive} {noun}[10]\nwhat a {expletive} {adjective} {noun} you are[6]\nfucking {noun} {noun} {noun}[8]\n{expletive} {adjective} {noun} {noun}[4]";
 
   this.words.expletive = "##########################\nfucking[26]\nmotherfucking[10]\ndamn\ngoddamn[3]\ngoddamned[3]\ngoddamn fucking\ngoddamned fucking\ndamn motherfucking\ngoddamn motherfucking\ngoddamned motherfucking";
 

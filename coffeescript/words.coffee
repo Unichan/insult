@@ -11,7 +11,7 @@ can't flim flam the unicham
 """
 >2014 >being this much of a {adjective} {noun}[3]
 >2014 >being such a {adjective} {expletive} {noun}[3]
->2014 >being a {adjective} {noun}[2]
+>2014 >being a {adjective} {noun} {noun}[2]
 fucking {compound_adjective} {adjective} {noun} {noun} ass bitch[2]
 {you} look like a {adjective} {noun} and a {noun} at the same {expletive} time you {expletive} {noun}[3]
 {phrase} ass {noun}[10]
@@ -19,7 +19,10 @@ fucking {compound_adjective} {adjective} {noun} {noun} ass bitch[2]
 {expletive} {adjective} {adjective} {adjective} ass {noun}[5]
 you're a {adjective} {expletive} {noun}[10]
 what a {expletive} {adjective} {noun} you are[6]
+fucking {noun} {noun} {noun}[8]
+{expletive} {adjective} {noun} {noun}[4]
 """
+
 
 @words.expletive =
 """
