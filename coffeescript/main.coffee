@@ -10,13 +10,13 @@ template = [
 @phraseHistory = []
 
 PRESET_CHANCE = 0.03
-CUSTOM_CHANCE = 0.20
+CUSTOM_CHANCE = 0.30
 
 Array::compact = ->
   (elem for elem in this when elem?)
 
-randChoice = (array) ->
-  array[Math.floor(Math.random() * array.length)]
+Array::choose = ->
+  this[Math.floor(Math.random() * this.length)]
 
 setupWords = ->
   for k, v of @words
@@ -26,19 +26,19 @@ setupWords = ->
   @words.intro = ((if !!w then "#{w}," else w) for w in @words.intro)
 
 getCustom = ->
-  randChoice(@words.custom).replace /\{(.+?)\}/g, (s, m1) ->
-    if m1 == 'phrase' then getCombo() else randChoice(@words[m1])
+  @words.custom.choose().replace /\{(.+?)\}/g, (s, m1) ->
+    if m1 == 'phrase' then getCombo() else @words[m1].choose()
 
 getCombo = ->
   template.map (type) ->
-    randChoice(@words[type])
+    @words[type].choose()
   .compact().join(' ')
 
 genPhrase = ->
   roll = Math.random()
 
   if roll < PRESET_CHANCE
-    randChoice(@words.preset)
+    @words.preset.choose()
   else if roll < CUSTOM_CHANCE
     getCustom()
   else

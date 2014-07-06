@@ -4,6 +4,7 @@
 """
 fucking demon baby antichrist fucking 60 year old 6 year old bowl cut looking ass bitch
 you look like a dying old woman and a underage girl at the same damn time got a nigga fucked up
+can't flim flam the unicham
 """
 
 @words.custom =
@@ -11,9 +12,13 @@ you look like a dying old woman and a underage girl at the same damn time got a 
 >2014 >being this much of a {adjective} {noun}[3]
 >2014 >being such a {adjective} {expletive} {noun}[3]
 >2014 >being a {adjective} {noun}[2]
-fucking {compound_adjective} {adjective} {noun} {noun} ass bitch[4]
-{you} look like a {adjective} {noun} and a {noun} at the same {expletive} time you {expletive} {noun}
+fucking {compound_adjective} {adjective} {noun} {noun} ass bitch[2]
+{you} look like a {adjective} {noun} and a {noun} at the same {expletive} time you {expletive} {noun}[3]
 {phrase} ass {noun}[10]
+{expletive} {adjective} {adjective} {noun}[5]
+{expletive} {adjective} {adjective} {adjective} ass {noun}[5]
+you're a {adjective} {expletive} {noun}[10]
+what a {expletive} {adjective} {noun}[6]
 """
 
 @words.expletive =
@@ -77,6 +82,8 @@ quit grasping at straws
 nice strawman
 nice samefagging
 nice damage control
+i'll break your jaw
+fight me irl
 """
 
 @words.you =
@@ -92,6 +99,7 @@ sad
 beta
 omega
 pathetic
+dumb
 childish
 projecting
 autistic
@@ -106,7 +114,6 @@ awkward
 fat
 curvy
 creepy
-beautiful
 butthurt
 butt bitter
 anorexic
@@ -165,6 +172,7 @@ pedo
 junefag
 junebot
 sperglord
+sperg
 aspie fuck
 burlap sack
 peterfag
@@ -177,6 +185,7 @@ pussy
 jew
 faggot
 fag
+faglord
 son of a bitch
 namefag
 tripfag
