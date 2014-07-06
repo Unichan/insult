@@ -12,9 +12,6 @@ template = [
 PRESET_CHANCE = 0.02
 CUSTOM_CHANCE = 0.30
 
-Array::compact = ->
-  (elem for elem in this when elem?)
-
 Array::choose = ->
   this[Math.floor(Math.random() * this.length)]
 
@@ -32,7 +29,7 @@ getCustom = ->
 getCombo = ->
   template.map (type) ->
     @words[type].choose()
-  .compact().join(' ')
+  .join(' ')
 
 genPhrase = ->
   roll = Math.random()

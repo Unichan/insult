@@ -10,18 +10,6 @@
 
   CUSTOM_CHANCE = 0.30;
 
-  Array.prototype.compact = function() {
-    var elem, _i, _len, _results;
-    _results = [];
-    for (_i = 0, _len = this.length; _i < _len; _i++) {
-      elem = this[_i];
-      if (elem != null) {
-        _results.push(elem);
-      }
-    }
-    return _results;
-  };
-
   Array.prototype.choose = function() {
     return this[Math.floor(Math.random() * this.length)];
   };
@@ -60,7 +48,7 @@
   getCombo = function() {
     return template.map(function(type) {
       return this.words[type].choose();
-    }).compact().join(' ');
+    }).join(' ');
   };
 
   genPhrase = function() {
