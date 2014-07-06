@@ -18,7 +18,7 @@ fucking {compound_adjective} {adjective} {noun} {noun} ass bitch[4]
 
 @words.expletive =
 """
-################
+##################
 fucking[18]
 motherfucking[10]
 damn
@@ -106,7 +106,7 @@ awkward
 fat
 curvy
 creepy
-"beautiful"
+beautiful
 butthurt
 butt bitter
 anorexic

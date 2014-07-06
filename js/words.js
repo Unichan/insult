@@ -6,13 +6,13 @@
 
   this.words.custom = ">2014 >being this much of a {adjective} {noun}[3]\n>2014 >being such a {adjective} {expletive} {noun}[3]\n>2014 >being a {adjective} {noun}[2]\nfucking {compound_adjective} {adjective} {noun} {noun} ass bitch[4]\n{you} look like a {adjective} {noun} and a {noun} at the same {expletive} time you {expletive} {noun}\n{phrase} ass {noun}[8]";
 
-  this.words.expletive = "################\nfucking[18]\nmotherfucking[10]\ndamn\ngoddamn[3]\ngoddamned[3]\ngoddamn fucking\ngoddamned fucking\ndamn motherfucking\ngoddamn motherfucking\ngoddamned motherfucking";
+  this.words.expletive = "##################\nfucking[18]\nmotherfucking[10]\ndamn\ngoddamn[3]\ngoddamned[3]\ngoddamn fucking\ngoddamned fucking\ndamn motherfucking\ngoddamn motherfucking\ngoddamned motherfucking";
 
   this.words.intro = "######\nsup caleb\nsup cecil\nsup loli\nsup jwagzz\nsup jelly\njelly detected\nsup nig\nsup nick\nyou must be nick\nyou must be jwagzz\nhi troll\ngtfo\nplease die\ndie in a fire\nshut the fuck up\nnice try\ngo back to cc\ngo back to tc\ngo back to ilb\ngo lick loli's tampons\ngo eat some sleeping pills\ni can't believe you're this retarded\nyou can't fucking come to the meetup\ngo fuck yourself\nkill yourself\nare you fucking serious\neat a dick\nhurr durr\nnice b8\nnice reverse psychopathology\nhow fucking dare you\n1/10 cloxxies\ni hope kenny sits on you\nwhat a pathetic attempt\njesus fucking christ\nhow do you dress yourself\nreal fucking funny\nyou're projecting hard\nstop fucking projecting\nquit grasping at straws\nnice strawman\nnice samefagging\nnice damage control";
 
   this.words.you = "you[6]\nyew";
 
-  this.words.adjective = "####\nsad\nbeta\nomega\npathetic\nchildish\nprojecting\nautistic\nretarded\ndeluded\nforever alone\npsychotic\nobsessive\ntryhard\ndisgusting\nawkward\nfat\ncurvy\ncreepy\n\"beautiful\"\nbutthurt\nbutt bitter\nanorexic\ncringeworthy\nembarrassing\nvapid\njewish\ncatty\ncrazy\nbatshit crazy\njealous\nderanged\nbitter\ninsufferable\nobnoxious\ndeaf\ndisgusting\nhuge\nyeasty\nultra mega\npitiful\ngross\nnarcissistic";
+  this.words.adjective = "####\nsad\nbeta\nomega\npathetic\nchildish\nprojecting\nautistic\nretarded\ndeluded\nforever alone\npsychotic\nobsessive\ntryhard\ndisgusting\nawkward\nfat\ncurvy\ncreepy\nbeautiful\nbutthurt\nbutt bitter\nanorexic\ncringeworthy\nembarrassing\nvapid\njewish\ncatty\ncrazy\nbatshit crazy\njealous\nderanged\nbitter\ninsufferable\nobnoxious\ndeaf\ndisgusting\nhuge\nyeasty\nultra mega\npitiful\ngross\nnarcissistic";
 
   this.words.compound_adjective = "###################\nfat-ass[3]\ncandy-ass\nfaggot-ass[3]\ncactus-fucking\ntwo-faced[4]\ndick-sucking[3]\ncock-sucking[3]\ndragon dildo-owning\nextra-water-retaining\npointy-kneed\nsharp-elbowed\nfake-titted\nfedora-wearing[2]\ncum-guzzling[2]\nass-kissing[2]\nbutt-fucking\npotato-nosed\nroast-beef-vagina\ngilbert-gottfried-looking\nacne-covered[2]";
 
