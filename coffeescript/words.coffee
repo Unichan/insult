@@ -18,14 +18,14 @@ fucking {compound_adjective} {adjective} {noun} {noun} ass bitch[2]
 {expletive} {adjective} {adjective} {noun}[5]
 {expletive} {adjective} {adjective} {adjective} ass {noun}[5]
 you're a {adjective} {expletive} {noun}[10]
-what a {expletive} {adjective} {noun}[6]
+what a {expletive} {adjective} {noun} you are[6]
 """
 
 @words.expletive =
 """
 ##########################
-fucking[25]
-motherfucking[12]
+fucking[26]
+motherfucking[10]
 damn
 goddamn[3]
 goddamned[3]
