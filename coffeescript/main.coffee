@@ -45,7 +45,7 @@ genPhrase = ->
     getCombo()
 
 fixArticles = (s) ->
-  s.replace(/\ba\b ([aeiou])/g, 'an $1')
+  s.replace(/\ {2,}/, ' ').trim().replace(/\ba\b ([aeiou])/g, 'an $1')
 
 setNewPhrase = ->
   @index = 0

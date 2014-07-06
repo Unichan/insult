@@ -76,7 +76,7 @@
   };
 
   fixArticles = function(s) {
-    return s.replace(/\ba\b ([aeiou])/g, 'an $1');
+    return s.replace(/\ {2,}/, ' ').trim().replace(/\ba\b ([aeiou])/g, 'an $1');
   };
 
   setNewPhrase = function() {
