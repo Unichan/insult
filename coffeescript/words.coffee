@@ -13,14 +13,14 @@ you look like a dying old woman and a underage girl at the same damn time got a 
 >2014 >being a {adjective} {noun}[2]
 fucking {compound_adjective} {adjective} {noun} {noun} ass bitch[4]
 {you} look like a {adjective} {noun} and a {noun} at the same {expletive} time you {expletive} {noun}
-{phrase} ass {noun}[8]
+{phrase} ass {noun}[10]
 """
 
 @words.expletive =
 """
 ##################
-fucking[18]
-motherfucking[10]
+fucking[25]
+motherfucking[12]
 damn
 goddamn[3]
 goddamned[3]
@@ -33,7 +33,7 @@ goddamned motherfucking
 
 @words.intro =
 """
-######
+###########
 sup caleb
 sup cecil
 sup loli
@@ -87,7 +87,7 @@ yew
 
 @words.adjective =
 """
-####
+#######
 sad
 beta
 omega
@@ -192,7 +192,7 @@ shill
 councilfag
 feminist
 holocaust believer
-fucking psycho
+psycho
 psychopath
 troll
 caleb
@@ -206,6 +206,7 @@ idiot
 retard idiot
 moron
 downy
+punk
 faggot son
 samefag
 dorito head
@@ -217,6 +218,7 @@ white knight
 dicknose
 brony
 strumpet
+glorious winged faggot
 horsefucker
 goblin
 faggit
