@@ -8,7 +8,7 @@
 
   this.isSpecial = false;
 
-  SPECIAL_CHANCE = 0.10;
+  SPECIAL_CHANCE = 0.02;
 
   CUSTOM_CHANCE = 0.30;
 
@@ -104,7 +104,7 @@
 
   showSpecial = function() {
     $('#new').prop('disabled', true);
-    $('#image-container').fadeTo(1000, 1);
+    $('#image-container').fadeTo(1600, 1);
     return $('#sentence').animate({
       color: '#953255'
     }, 400, function() {

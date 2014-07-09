@@ -216,6 +216,7 @@ hooknose
 hamplanet
 hamwhale
 shill
+old leather bag
 councilfag
 feminist
 holocaust believer
@@ -231,6 +232,7 @@ turdface
 retard
 idiot
 retard idiot
+slimy anal munk
 moron
 downy
 punk

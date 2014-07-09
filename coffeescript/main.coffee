@@ -10,7 +10,7 @@ template = [
 @phraseHistory = []
 @isSpecial = false
 
-SPECIAL_CHANCE = 0.10
+SPECIAL_CHANCE = 0.02
 CUSTOM_CHANCE = 0.30
 
 Array::choose = ->
@@ -72,13 +72,12 @@ showPrevious = ->
 
 showSpecial = ->
   $('#new').prop('disabled', true)
-  $('#image-container').fadeTo(1000, 1)
+  $('#image-container').fadeTo(1600, 1)
   $('#sentence').animate color: '#953255', 400, ->
     $('#sentence').animate color: '#F9ECD1', 400, ->
       setTimeout ->
         $('#new').prop('disabled', '')
       , 400
-
 
 
 $ ->
