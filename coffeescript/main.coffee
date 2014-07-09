@@ -8,8 +8,9 @@ template = [
 ]
 
 @phraseHistory = []
+@isSpecial = false
 
-PRESET_CHANCE = 0.02
+SPECIAL_CHANCE = 0.10
 CUSTOM_CHANCE = 0.30
 
 Array::choose = ->
@@ -21,6 +22,13 @@ setupWords = ->
       Array(parseInt(m2) + 1).join(m1 + '\n')
     .trim().replace(/#/g, '\n').split(/\n/)
   @words.intro = ((if !!w then "#{w}," else w) for w in @words.intro)
+
+
+getSpecial = ->
+  [phrase, img] = @special.choose()
+  $('#image').attr(src: img)
+  @isSpecial = true
+  phrase
 
 getCustom = ->
   @words.custom.choose().replace /\{(.+?)\}/g, (s, m1) ->
@@ -34,8 +42,8 @@ getCombo = ->
 genPhrase = ->
   roll = Math.random()
 
-  if roll < PRESET_CHANCE
-    @words.preset.choose()
+  if roll < SPECIAL_CHANCE
+    getSpecial()
   else if roll < CUSTOM_CHANCE
     getCustom()
   else
@@ -44,15 +52,33 @@ genPhrase = ->
 fixArticles = (s) ->
   s.replace(/\ {2,}/, ' ').trim().replace(/\ba\b ([aeiou])/g, 'an $1')
 
-setNewPhrase = ->
+reset = ->
+  @isSpecial = false
   @index = 0
+  $('#image-container').css(opacity: 0)
+
+setNewPhrase = ->
+  reset()
   @previous = @phrase
   @phrase = fixArticles(genPhrase()).toUpperCase()
   $('#sentence').text(@phrase)
+  if isSpecial
+    showSpecial()
   @phraseHistory.unshift(@phrase)
+
 
 showPrevious = ->
   $('#sentence').text(@phraseHistory[++@index])
+
+showSpecial = ->
+  $('#new').prop('disabled', true)
+  $('#image-container').fadeTo(1000, 1)
+  $('#sentence').animate color: '#953255', 400, ->
+    $('#sentence').animate color: '#F9ECD1', 400, ->
+      setTimeout ->
+        $('#new').prop('disabled', '')
+      , 400
+
 
 
 $ ->
@@ -61,3 +87,4 @@ $ ->
   $('#new').click -> setNewPhrase()
   $('#previous-link').click -> showPrevious()
   $('#time').text(lastUpdated)
+

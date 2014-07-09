@@ -1,11 +1,16 @@
-@words = {}
+@special = [
+    ["fucking demon baby antichrist fucking 60 year old 6 year old bowl cut looking ass bitch", "http://i.imgur.com/AtKiLxT.png"]
+    ["shit the fuck up you fat piece of dirt!!", "http://i.imgur.com/WGqCCDb.png"]
+    ["can't flim flam the unicham", "http://i.imgur.com/w4KJbOP.png"]
+    ["what'd id do to be a wall on that chatroom wall hehe", "http://i.imgur.com/2dNgffO.png"]
+    ["you look like a dying old woman and a underage girl at the same damn time got a nigga fucked up", "http://i.imgur.com/L1blxcw.png"]
+    ["i played football in high school and will fucking bodyslam you gay boy", "http://i.imgur.com/k5ZfDyr.png"]
+    ["boxxyfan detected", "http://i.imgur.com/C0tWkqE.gif"]
+    ["yew look like an old leather bag", "http://i.imgur.com/udH94T8.png"]
+    ["you slimy anal munk", "http://i.imgur.com/dt9TRci.png"]
+]
 
-@words.preset =
-"""
-fucking demon baby antichrist fucking 60 year old 6 year old bowl cut looking ass bitch
-you look like a dying old woman and a underage girl at the same damn time got a nigga fucked up
-can't flim flam the unicham
-"""
+@words = {}
 
 @words.custom =
 """
@@ -22,7 +27,6 @@ what a {expletive} {adjective} {noun} you are[6]
 fucking {noun} {noun} {noun}[8]
 {expletive} {adjective} {noun} {noun}[4]
 """
-
 
 @words.expletive =
 """
@@ -87,6 +91,10 @@ nice samefagging
 nice damage control
 i'll break your jaw
 fight me irl
+go back2reddit
+go back to tumblr
+go back to /pol/
+go back to /b/
 """
 
 @words.you =
@@ -111,7 +119,10 @@ deluded
 forever alone
 psychotic
 obsessive
+slimey
+grimey
 tryhard
+balding
 disgusting
 awkward
 fat
@@ -120,6 +131,7 @@ creepy
 butthurt
 butt bitter
 anorexic
+cringey
 cringeworthy
 embarrassing
 vapid
@@ -140,12 +152,14 @@ ultra mega
 pitiful
 gross
 narcissistic
+gay
 """
 
 @words.compound_adjective =
 """
 ###################
 fat-ass[3]
+gay-ass[3]
 candy-ass
 faggot-ass[3]
 cactus-fucking
@@ -189,6 +203,7 @@ jew
 faggot
 fag
 faglord
+gaylord
 son of a bitch
 namefag
 tripfag
@@ -236,6 +251,8 @@ goblin
 faggit
 fagget
 mlpfag
+loser
+gay loser
 shitfucker
 weeaboo
 gnome
@@ -249,6 +266,7 @@ toad
 cocksucker
 shitass
 goy
+future mass murderer
 male OC
 nigger frog
 internet tough guy
